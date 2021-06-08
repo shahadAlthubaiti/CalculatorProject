@@ -20,15 +20,19 @@ public class Clculator {
   case '+':
 	  FR = n1 +n2;
 	  System.out.println(n1 +" + "+n2+ " = "+FR);
+		  break;
   case '*':
 	  FR = n1 *n2;
 	  System.out.println(n1 +"* "+ +n2+ " = "+FR);
+		  break;
   case '/':
 	  FR = n1 /n2;
 	  System.out.println(n1 +" / "+n2+ " = "+FR);
+		  break;
   case '-':
 	  FR = n1 -n2;
 	  System.out.println(n1 +" - "+n2+ " = "+FR);
+		  break;
   }
   
   
